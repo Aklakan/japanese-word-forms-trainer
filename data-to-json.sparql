@@ -1,0 +1,25 @@
+INSERT {
+  ?s
+    eg:shuushikei ?a ;
+    eg:hiragana ?b ;
+    eg:rentaikei ?c ;
+    eg:mizenkeiNai ?d ;
+    eg:renyoukeiMasu ?e ;
+    eg:volitionalForm ?f ;
+    eg:baForm ?g ;
+    eg:german ?h
+} WHERE {
+#}
+#SELECT ?s ?a {
+  { SELECT * { <data.csv> csv:parse (?row "") } OFFSET 1 }
+  BIND(json:path(?row, "$[0]") AS ?a)
+  BIND(json:path(?row, "$[1]") AS ?b)
+  BIND(json:path(?row, "$[2]") AS ?c)
+  BIND(json:path(?row, "$[3]") AS ?d)
+  BIND(json:path(?row, "$[4]") AS ?e)
+  BIND(json:path(?row, "$[5]") AS ?f)
+  BIND(json:path(?row, "$[6]") AS ?g)
+  BIND(json:path(?row, "$[7]") AS ?h)
+
+  BIND(IRI(CONCAT(STR(eg:), 'entry/', ENCODE_FOR_URI(?h))) AS ?s)
+}
