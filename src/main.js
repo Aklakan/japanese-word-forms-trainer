@@ -21,7 +21,7 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 const router = new VueRouter({
     routes,
     linkActiveClass: 'active',
-    mode: 'history'
+//    mode: 'history'
 });
 
 new Vue({

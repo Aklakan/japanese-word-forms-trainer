@@ -1,7 +1,7 @@
 {
   "name": "japanese-word-forms-trainer",
   "version": "1.0.0",
-  "description": "Vue 2 application with webpack 4 boilerplate",
+  "description": "Japanese word forms trainer",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --progress",
     "staging": "cross-env NODE_ENV=staging webpack",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samteb/vue-2-webpack-4-boilerplate"
+    "url": "https://github.com/Aklakan/japanese-word-forms-trainer"
   },
   "keywords": [
     "Vue",
     "Webpack 4"
   ],
-  "author": "samteb <sam.teboul@gmail.com>",
+  "author": "Claus Stadler <cstadler@informatik.uni-leipzig.de>",
   "license": "MIT",
-  "homepage": "https://github.com/samteb/vue-2-webpack-4-boilerplate",
+  "homepage": "https://github.com/Aklakan/japanese-word-forms-trainer",
   "dependencies": {
     "@babel/polyfill": "~7.2",
     "bootstrap": "^4.3.1",
@@ -58,6 +58,7 @@
     "optimize-css-assets-webpack-plugin": "~5.0",
     "sass-loader": "~7.1",
     "uglifyjs-webpack-plugin": "~1.2",
+    "url-loader": "^2.0.0",
     "vue-loader": "~15.6",
     "vue-style-loader": "~4.1",
     "vue-template-compiler": "~2.6",
