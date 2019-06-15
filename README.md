@@ -15,7 +15,7 @@ This project uses Webpack 4 and Vue.js 2.
 
 Prerequisites: You need to have a working setup of `npm` (node package manager).
 
-* Download all dependencies*
+* Download all dependencies
 
 ```
 npm install
@@ -31,6 +31,12 @@ npm run dev
 
 ```
 npm run build
+```
+
+* Deployment to gh-pages branch
+
+```
+npm run deploy
 ```
 
 ## Credits go to...

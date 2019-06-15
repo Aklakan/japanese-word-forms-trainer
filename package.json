@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --progress",
     "staging": "cross-env NODE_ENV=staging webpack",
-    "build": "cross-env NODE_ENV=production webpack"
+    "build": "cross-env NODE_ENV=production webpack",
+    "deploy": "npm run gh-pages",
+    "gh-pages": "gh-pages -d dist -b gh-pages"
   },
   "repository": {
     "type": "git",
@@ -51,6 +53,7 @@
     "eslint-plugin-vue": "~5.1",
     "file-loader": "^4.0.0",
     "friendly-errors-webpack-plugin": "~1.7",
+    "gh-pages": "^2.0.1",
     "html-webpack-plugin": "~3.2",
     "image-webpack-loader": "^5.0.0",
     "mini-css-extract-plugin": "~0.5",
