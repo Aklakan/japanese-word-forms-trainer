@@ -6,6 +6,9 @@ Verb forms are: Mizenkei, Shikokei, Renyoukei, Shushikei/Rentaikei, Kateikei and
 
 * See the table on this [German wikipedia page](https://de.wikipedia.org/wiki/Japanische_Grammatik#Flexion_und_Konjugation) for more information
 
+## Online
+
+Deployed on github.io: [https://aklakan.github.io/japanese-word-forms-trainer](https://aklakan.github.io/japanese-word-forms-trainer)
 
 ![Screenshot](screenshot.png)
 
