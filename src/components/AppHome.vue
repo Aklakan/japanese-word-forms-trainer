@@ -153,18 +153,24 @@ function pickTask() {
 
 </script>
 
+<style scoped>
+    h1  {
+        color: white;
+        justify-content:center;
+    }
+</style>
+
 <style>
-    html, body {
-      background: url("Djamila_Knopf_Childhood_Memories.jpg");
-      background-repeat:no-repeat;
+    html {
+      width: 100%;
+      height: 100%;
+    }
+
+    body {
+      background: url("Djamila_Knopf_Childhood_Memories.jpg") no-repeat center center fixed;
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
-    }
-
-    h1  {
-        color: white;
-        justify-content:center;
     }
 </style>
