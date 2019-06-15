@@ -161,7 +161,7 @@ function pickTask() {
 
 <style>
     body {
-      background: url("japan-chureito-pagode-mount_fuji.jpg") no-repeat center center fixed;
+      background: url("Djamila_Knopf_Childhood_Memories.jpg") no-repeat center center fixed;
     }
 
     h1  {
