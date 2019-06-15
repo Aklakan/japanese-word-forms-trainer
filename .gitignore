@@ -34,4 +34,5 @@ results.tsv
 .vscode
 
 node_modules
+dist
 
