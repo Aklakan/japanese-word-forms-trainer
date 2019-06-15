@@ -1,0 +1,870 @@
+[
+  {
+    "id": "http://www.example.org/entry/herausgehen",
+    "id_type": "uri",
+    "rentaikei": [
+      "出る"
+    ],
+    "baForm": [
+      "出れば"
+    ],
+    "hiragana": [
+      "でる"
+    ],
+    "german": [
+      "herausgehen"
+    ],
+    "renyoukeiMasu": [
+      "出ます"
+    ],
+    "shuushikei": [
+      "出る"
+    ],
+    "mizenkeiNai": [
+      "出ない"
+    ],
+    "volitionalForm": [
+      "出よう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/schwimmen",
+    "id_type": "uri",
+    "rentaikei": [
+      "泳ぐ"
+    ],
+    "baForm": [
+      "泳げば"
+    ],
+    "hiragana": [
+      "およぐ"
+    ],
+    "german": [
+      "schwimmen"
+    ],
+    "renyoukeiMasu": [
+      "泳ぎます"
+    ],
+    "shuushikei": [
+      "泳ぐ"
+    ],
+    "mizenkeiNai": [
+      "泳がない"
+    ],
+    "volitionalForm": [
+      "泳ごう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/warten",
+    "id_type": "uri",
+    "rentaikei": [
+      "待つ"
+    ],
+    "baForm": [
+      "待てれば"
+    ],
+    "hiragana": [
+      "まつ"
+    ],
+    "german": [
+      "warten"
+    ],
+    "renyoukeiMasu": [
+      "待ちます"
+    ],
+    "shuushikei": [
+      "待つ"
+    ],
+    "mizenkeiNai": [
+      "待たない"
+    ],
+    "volitionalForm": [
+      "待とう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/sein%20%28animiert%29",
+    "id_type": "uri",
+    "rentaikei": [
+      "いる"
+    ],
+    "baForm": [
+      "いれば"
+    ],
+    "hiragana": [
+      "いる"
+    ],
+    "german": [
+      "sein (animiert)"
+    ],
+    "renyoukeiMasu": [
+      "います"
+    ],
+    "shuushikei": [
+      "いる"
+    ],
+    "mizenkeiNai": [
+      "いない"
+    ],
+    "volitionalForm": [
+      "いよう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/essen",
+    "id_type": "uri",
+    "rentaikei": [
+      "食べる"
+    ],
+    "baForm": [
+      "食べれば"
+    ],
+    "hiragana": [
+      "たべる"
+    ],
+    "german": [
+      "essen"
+    ],
+    "renyoukeiMasu": [
+      "食べます"
+    ],
+    "shuushikei": [
+      "食べる"
+    ],
+    "mizenkeiNai": [
+      "食べない"
+    ],
+    "volitionalForm": [
+      "食べよう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/aufstehen%2Fpassieren",
+    "id_type": "uri",
+    "rentaikei": [
+      "起きる"
+    ],
+    "baForm": [
+      "起きれば"
+    ],
+    "hiragana": [
+      "おきる"
+    ],
+    "german": [
+      "aufstehen/passieren"
+    ],
+    "renyoukeiMasu": [
+      "起きます"
+    ],
+    "shuushikei": [
+      "起きる"
+    ],
+    "mizenkeiNai": [
+      "起きない"
+    ],
+    "volitionalForm": [
+      "起きよう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/sprechen",
+    "id_type": "uri",
+    "rentaikei": [
+      "話す"
+    ],
+    "baForm": [
+      "話せば"
+    ],
+    "hiragana": [
+      "はなす"
+    ],
+    "german": [
+      "sprechen"
+    ],
+    "renyoukeiMasu": [
+      "話します"
+    ],
+    "shuushikei": [
+      "話す"
+    ],
+    "mizenkeiNai": [
+      "話さない"
+    ],
+    "volitionalForm": [
+      "話そう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/lehren",
+    "id_type": "uri",
+    "rentaikei": [
+      "教える"
+    ],
+    "baForm": [
+      "教えれば"
+    ],
+    "hiragana": [
+      "おしえる"
+    ],
+    "german": [
+      "lehren"
+    ],
+    "renyoukeiMasu": [
+      "教えます"
+    ],
+    "shuushikei": [
+      "教える"
+    ],
+    "mizenkeiNai": [
+      "教えない"
+    ],
+    "volitionalForm": [
+      "教えよう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/verkaufen",
+    "id_type": "uri",
+    "rentaikei": [
+      "売る"
+    ],
+    "baForm": [
+      "売れば"
+    ],
+    "hiragana": [
+      "うる"
+    ],
+    "german": [
+      "verkaufen"
+    ],
+    "renyoukeiMasu": [
+      "売ります"
+    ],
+    "shuushikei": [
+      "売る"
+    ],
+    "mizenkeiNai": [
+      "売らない"
+    ],
+    "volitionalForm": [
+      "売ろう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/nachdenken",
+    "id_type": "uri",
+    "rentaikei": [
+      "考える"
+    ],
+    "baForm": [
+      "考えれば"
+    ],
+    "hiragana": [
+      "かんがえる"
+    ],
+    "german": [
+      "nachdenken"
+    ],
+    "renyoukeiMasu": [
+      "考えます"
+    ],
+    "shuushikei": [
+      "考える"
+    ],
+    "mizenkeiNai": [
+      "考えない"
+    ],
+    "volitionalForm": [
+      "考えよう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/denken%2Fglauben",
+    "id_type": "uri",
+    "rentaikei": [
+      "思う"
+    ],
+    "baForm": [
+      "思えば"
+    ],
+    "hiragana": [
+      "おもう"
+    ],
+    "german": [
+      "denken/glauben"
+    ],
+    "renyoukeiMasu": [
+      "思います"
+    ],
+    "shuushikei": [
+      "思う"
+    ],
+    "mizenkeiNai": [
+      "思わない"
+    ],
+    "volitionalForm": [
+      "思おう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/heimkehren",
+    "id_type": "uri",
+    "rentaikei": [
+      "帰る"
+    ],
+    "baForm": [
+      "帰れば"
+    ],
+    "hiragana": [
+      "かえる"
+    ],
+    "german": [
+      "heimkehren"
+    ],
+    "renyoukeiMasu": [
+      "帰ります"
+    ],
+    "shuushikei": [
+      "帰る"
+    ],
+    "mizenkeiNai": [
+      "帰らない"
+    ],
+    "volitionalForm": [
+      "帰ろう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/sein%20%28nicht%20animiert%29%20%2Fhaben",
+    "id_type": "uri",
+    "rentaikei": [
+      "ある"
+    ],
+    "baForm": [
+      "あれば"
+    ],
+    "hiragana": [
+      "いる"
+    ],
+    "german": [
+      "sein (nicht animiert) /haben"
+    ],
+    "renyoukeiMasu": [
+      "あります"
+    ],
+    "shuushikei": [
+      "ある"
+    ],
+    "mizenkeiNai": [
+      "ない"
+    ],
+    "volitionalForm": [
+      "あろう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/kommen",
+    "id_type": "uri",
+    "rentaikei": [
+      "来る"
+    ],
+    "baForm": [
+      "来れば"
+    ],
+    "hiragana": [
+      "くる"
+    ],
+    "german": [
+      "kommen"
+    ],
+    "renyoukeiMasu": [
+      "きます"
+    ],
+    "shuushikei": [
+      "来る"
+    ],
+    "mizenkeiNai": [
+      "こない"
+    ],
+    "volitionalForm": [
+      "来よう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/schneiden",
+    "id_type": "uri",
+    "rentaikei": [
+      "切る"
+    ],
+    "baForm": [
+      "切れば"
+    ],
+    "hiragana": [
+      "きる"
+    ],
+    "german": [
+      "schneiden"
+    ],
+    "renyoukeiMasu": [
+      "切ります"
+    ],
+    "shuushikei": [
+      "切る"
+    ],
+    "mizenkeiNai": [
+      "切らない"
+    ],
+    "volitionalForm": [
+      "切ろう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/spielen",
+    "id_type": "uri",
+    "rentaikei": [
+      "遊ぶ"
+    ],
+    "baForm": [
+      "遊べば"
+    ],
+    "hiragana": [
+      "あそぶ"
+    ],
+    "german": [
+      "spielen"
+    ],
+    "renyoukeiMasu": [
+      "遊びます"
+    ],
+    "shuushikei": [
+      "遊ぶ"
+    ],
+    "mizenkeiNai": [
+      "遊ばない"
+    ],
+    "volitionalForm": [
+      "遊ぼう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/kaufen",
+    "id_type": "uri",
+    "rentaikei": [
+      "買う"
+    ],
+    "baForm": [
+      "買えば"
+    ],
+    "hiragana": [
+      "かう"
+    ],
+    "german": [
+      "kaufen"
+    ],
+    "renyoukeiMasu": [
+      "買います"
+    ],
+    "shuushikei": [
+      "買う"
+    ],
+    "mizenkeiNai": [
+      "買わない"
+    ],
+    "volitionalForm": [
+      "買おう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/etw.%20aushalten",
+    "id_type": "uri",
+    "rentaikei": [
+      "凌ぐ"
+    ],
+    "baForm": [
+      "凌げば"
+    ],
+    "hiragana": [
+      "しのぐ"
+    ],
+    "german": [
+      "etw. aushalten"
+    ],
+    "renyoukeiMasu": [
+      "凌ぎます"
+    ],
+    "shuushikei": [
+      "凌ぐ"
+    ],
+    "mizenkeiNai": [
+      "凌がない"
+    ],
+    "volitionalForm": [
+      "凌ごう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/schlafen",
+    "id_type": "uri",
+    "rentaikei": [
+      "寝る"
+    ],
+    "baForm": [
+      "寝れば"
+    ],
+    "hiragana": [
+      "ねる"
+    ],
+    "german": [
+      "schlafen"
+    ],
+    "renyoukeiMasu": [
+      "寝ます"
+    ],
+    "shuushikei": [
+      "寝る"
+    ],
+    "mizenkeiNai": [
+      "寝ない"
+    ],
+    "volitionalForm": [
+      "寝よう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/arbeiten",
+    "id_type": "uri",
+    "rentaikei": [
+      "働く"
+    ],
+    "baForm": [
+      "働ければ"
+    ],
+    "hiragana": [
+      "はたらく"
+    ],
+    "german": [
+      "arbeiten"
+    ],
+    "renyoukeiMasu": [
+      "働きます"
+    ],
+    "shuushikei": [
+      "働く"
+    ],
+    "mizenkeiNai": [
+      "働かない"
+    ],
+    "volitionalForm": [
+      "働こう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/quatschen",
+    "id_type": "uri",
+    "rentaikei": [
+      "喋る"
+    ],
+    "baForm": [
+      "喋れば"
+    ],
+    "hiragana": [
+      "しゃべる"
+    ],
+    "german": [
+      "quatschen"
+    ],
+    "renyoukeiMasu": [
+      "喋ります"
+    ],
+    "shuushikei": [
+      "喋る"
+    ],
+    "mizenkeiNai": [
+      "喋らない"
+    ],
+    "volitionalForm": [
+      "喋ろう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/reingehen",
+    "id_type": "uri",
+    "rentaikei": [
+      "入る"
+    ],
+    "baForm": [
+      "入れば"
+    ],
+    "hiragana": [
+      "はいる"
+    ],
+    "german": [
+      "reingehen"
+    ],
+    "renyoukeiMasu": [
+      "入ります"
+    ],
+    "shuushikei": [
+      "入る"
+    ],
+    "mizenkeiNai": [
+      "入らない"
+    ],
+    "volitionalForm": [
+      "入ろう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/sehen",
+    "id_type": "uri",
+    "rentaikei": [
+      "見る"
+    ],
+    "baForm": [
+      "見れば"
+    ],
+    "hiragana": [
+      "みる"
+    ],
+    "german": [
+      "sehen"
+    ],
+    "renyoukeiMasu": [
+      "見ます"
+    ],
+    "shuushikei": [
+      "見る"
+    ],
+    "mizenkeiNai": [
+      "見ない"
+    ],
+    "volitionalForm": [
+      "見よう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/machen",
+    "id_type": "uri",
+    "rentaikei": [
+      "する"
+    ],
+    "baForm": [
+      "すれば"
+    ],
+    "hiragana": [
+      "する"
+    ],
+    "german": [
+      "machen"
+    ],
+    "renyoukeiMasu": [
+      "します"
+    ],
+    "shuushikei": [
+      "する"
+    ],
+    "mizenkeiNai": [
+      "しない"
+    ],
+    "volitionalForm": [
+      "しよう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/schreiben",
+    "id_type": "uri",
+    "rentaikei": [
+      "書く"
+    ],
+    "baForm": [
+      "書けば"
+    ],
+    "hiragana": [
+      "かく"
+    ],
+    "german": [
+      "schreiben"
+    ],
+    "renyoukeiMasu": [
+      "書きます"
+    ],
+    "shuushikei": [
+      "書く"
+    ],
+    "mizenkeiNai": [
+      "書かない"
+    ],
+    "volitionalForm": [
+      "書こう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/gehen",
+    "id_type": "uri",
+    "rentaikei": [
+      "行く"
+    ],
+    "baForm": [
+      "行けば"
+    ],
+    "hiragana": [
+      "いく"
+    ],
+    "german": [
+      "gehen"
+    ],
+    "renyoukeiMasu": [
+      "行きます"
+    ],
+    "shuushikei": [
+      "行く"
+    ],
+    "mizenkeiNai": [
+      "行かないない"
+    ],
+    "volitionalForm": [
+      "行こう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/tragen%2Fhalten",
+    "id_type": "uri",
+    "rentaikei": [
+      "持つ"
+    ],
+    "baForm": [
+      "持てば"
+    ],
+    "hiragana": [
+      "もつ"
+    ],
+    "german": [
+      "tragen/halten"
+    ],
+    "renyoukeiMasu": [
+      "持ちます"
+    ],
+    "shuushikei": [
+      "持つ"
+    ],
+    "mizenkeiNai": [
+      "持たない"
+    ],
+    "volitionalForm": [
+      "持とう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/trinken",
+    "id_type": "uri",
+    "rentaikei": [
+      "飲む"
+    ],
+    "baForm": [
+      "飲めば"
+    ],
+    "hiragana": [
+      "のむ"
+    ],
+    "german": [
+      "trinken"
+    ],
+    "renyoukeiMasu": [
+      "飲みます"
+    ],
+    "shuushikei": [
+      "飲む"
+    ],
+    "mizenkeiNai": [
+      "飲まない"
+    ],
+    "volitionalForm": [
+      "飲もう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/tragen%20%28Kleidung%29",
+    "id_type": "uri",
+    "rentaikei": [
+      "着る"
+    ],
+    "baForm": [
+      "着れば"
+    ],
+    "hiragana": [
+      "きる"
+    ],
+    "german": [
+      "tragen (Kleidung)"
+    ],
+    "renyoukeiMasu": [
+      "着ます"
+    ],
+    "shuushikei": [
+      "着る"
+    ],
+    "mizenkeiNai": [
+      "着ない"
+    ],
+    "volitionalForm": [
+      "着よう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/sterben",
+    "id_type": "uri",
+    "rentaikei": [
+      "死ぬ"
+    ],
+    "baForm": [
+      "死ねば"
+    ],
+    "hiragana": [
+      "しぬ"
+    ],
+    "german": [
+      "sterben"
+    ],
+    "renyoukeiMasu": [
+      "死にます"
+    ],
+    "shuushikei": [
+      "死ぬ"
+    ],
+    "mizenkeiNai": [
+      "死なない"
+    ],
+    "volitionalForm": [
+      "死のう"
+    ]
+  },
+  {
+    "id": "http://www.example.org/entry/wegwerfen",
+    "id_type": "uri",
+    "rentaikei": [
+      "捨てる"
+    ],
+    "baForm": [
+      "捨てれば"
+    ],
+    "hiragana": [
+      "すてる"
+    ],
+    "german": [
+      "wegwerfen"
+    ],
+    "renyoukeiMasu": [
+      "捨てます"
+    ],
+    "shuushikei": [
+      "捨てる"
+    ],
+    "mizenkeiNai": [
+      "捨てない"
+    ],
+    "volitionalForm": [
+      "捨てよう"
+    ]
+  }
+]

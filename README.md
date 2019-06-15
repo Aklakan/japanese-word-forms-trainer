@@ -6,3 +6,5 @@ Based on the tutorial from https://medium.com/js-dojo/how-to-configure-webpack-4
 
 npm i babel-plugin-syntax-dynamic-import -D
 
+Background image source: https://www.myhappyplaces.de/von-tokio-bis-kyoto-tipps-fuer-2-wochen-in-japan/ (via google image search)
+
