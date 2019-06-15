@@ -21,24 +21,18 @@
 
     <div class="row"　v-show="!taskDone">
       <div class="col-sm-6 offset-sm-3 text-center">
-<div class="btn-group" role="group">
-        <button type="button" class="btn btn-outline-warning btn-sm" v-on:click='showSpoiler = !showSpoiler'>{{showSpoiler ? 'Hide' : 'Show'}} spoiler</button>
-</div>
+        <button type="button" class="btn btn-outline-danger btn-sm m-2" v-on:click='showSpoiler = !showSpoiler'>{{showSpoiler ? 'Hide' : 'Show'}} spoiler</button>
       </div>
     </div>
 
     <div class="row">
       <div class="col-sm-6 offset-sm-3 text-center">
-
         <fieldset :disabled="taskDone">
-        <div class="form-group">
-<!--          <div class="form-group"> -->
+      　　  <div class="form-group">
             <input class="form-control form-control-lg" v-bind:class="{ 'is-invalid': taskFail, 'is-valid': taskSuccess }" type="text" v-model="answer" @input="validate">
-          </div>
-<!--        </div> -->
-</fieldset>
-
-</div>
+       　　 </div>
+　　　　　　</fieldset>
+　　　　　　</div>
     </div>
 
     <div class="form-text"></div>
