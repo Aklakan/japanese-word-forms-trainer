@@ -44,7 +44,7 @@ npm run deploy
 
 ## Credits go to...
 
-* ... Dennis Knopf-sensei for assembling the exercise data
+* ... Dennis Yim-sensei for assembling the exercise data
 * ... the highly talented artist [Djamila Knopf](http://www.djamilaknopf.com/); the background image in this project is used with her permission
 * ... This [blog post by Samuel Teboul](https://medium.com/js-dojo/how-to-configure-webpack-4-with-vuejs-a-complete-guide-209e943c4772) for giving me a kick start in setting up a modern web app project
 
